@@ -1,7 +1,5 @@
 package com.jtools.landmine.view;
 
-import sun.awt.Graphics2Delegate;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseEvent;
